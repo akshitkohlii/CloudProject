@@ -1,4 +1,4 @@
 /* 
   X-Content-Type-Options: nosniff
 /*
-  Content-Security-Policy: default-src 'self'https://unpkg.com;
+  Content-Security-Policy: default-src 'self';
