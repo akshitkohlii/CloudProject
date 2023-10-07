@@ -1287,17 +1287,6 @@ address {
 
   }
 
-  <style>
-    iframe {
-      width: 400px;
-      height: 100px;
-      position: absolute;
-      top: 5px;
-      left: -14px;
-      opacity: 0;
-      z-index: 1;
-    }
-  </style>
 
   /**
    * REUSED STYLE
